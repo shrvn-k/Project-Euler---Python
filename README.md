@@ -1,3 +1,3 @@
 # Project-Euler---Python
 
-Solutions to problems from Project Euler using Python.
+Solutions to problems from [Project Euler](https://projecteuler.net/about) using Python.
