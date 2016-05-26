@@ -11,6 +11,7 @@ while i<1000000:
         else:
             n=(3*n)+1
             lst.append(n)
+    print i,len(lst)
     if len(lst)>maximum:
         maximum=len(lst)
         maxn=i
